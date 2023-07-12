@@ -13,9 +13,10 @@
     },
     {
         "id": 2,
-        "title": "post 3",
-        "content": "Sample content",
-        "createAt": "03-01-2023"
+        "title": "Beginner post",
+        "content": "Sample content for test post",
+        "createAt": "03-01-2023",
+        "createdAt": 1689134100464
     },
     {
         "id": 4,
