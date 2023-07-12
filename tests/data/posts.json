@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "post 1",
+        "content": "Sample content",
+        "createAt": "01-01-2023"
+    },
+    {
+        "id": 1,
+        "title": "post 2",
+        "content": "Sample content",
+        "createAt": "02-01-2023"
+    },
+    {
+        "id": 2,
+        "title": "post 3",
+        "content": "Sample content",
+        "createAt": "03-01-2023"
+    },
+    {
+        "id": 4,
+        "title": "newly Updated post",
+        "content": "Sample content for next post",
+        "createdAt": 1689085206628
+    }
+]
